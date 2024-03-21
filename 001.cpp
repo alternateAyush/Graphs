@@ -1,7 +1,7 @@
 // Note: Total degree (sum of degrees) of a graph = 2*(edges)
 
 // Matrix representation of graph
-
+// space = O(n^2)
 #include <iostream>
 using namespace std;
 
